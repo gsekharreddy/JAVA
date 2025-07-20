@@ -9,7 +9,7 @@ class operators
 	double res;
 	double sum(int a,int b){
 		res=a+b;
-		return res;//ht
+		return res;
 	}
 	double sub(int a,int b){
 		res=a-b;
