@@ -1,5 +1,5 @@
 package JAVA;
 
 public class testt {
-    S
+    System.out.println("test is printed")
 }
