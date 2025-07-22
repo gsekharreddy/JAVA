@@ -16,6 +16,7 @@ public class DiagonalSum {
                 a[i][j]=sc.nextInt();
             }
         }
+        
         for(i=0;i<m;i++){
             for(j=0;j<n;j++){
                 if(i==j){
@@ -23,6 +24,7 @@ public class DiagonalSum {
                 }
             }
         }
+        
         System.out.println("The sum of the diagonal elements is : "+sum);
     }
 }
