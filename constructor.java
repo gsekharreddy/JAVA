@@ -1,6 +1,6 @@
 package JAVA;
 
-import java.util.*;
+import java.util.*;    //it imports the Scanner Class
 
 class hello
 {
