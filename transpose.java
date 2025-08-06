@@ -1,4 +1,5 @@
-package JAVA;
+package JAVA;         //because this is present in java directory
+
 
 import java.util.Scanner;
 
