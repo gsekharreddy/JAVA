@@ -1,4 +1,4 @@
-package JAVA;
+package JAVA;    //because the file is present in java directory
 
 import java.util.*;
 
